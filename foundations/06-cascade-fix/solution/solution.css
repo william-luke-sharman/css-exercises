@@ -60,7 +60,7 @@ div.text {
 
   Then we used an ID selector instead, since it has a higher specificity than the .button selector.
 
-  Other solutions would be to simply move the .confirm rule below the .button rule, or to use the .button.confirm selector without moving it:
+  Other solutions would be to rimply move the .confirm rule below the .button rule, or to use the .button.confirm selector without moving it:
 
   .button.confirm {
     background: green;
